@@ -3,8 +3,6 @@
 ```sh
 python main.py yourfile.bin
 ```
-### 2. Supported formats
-### BIN only
 
-### 3.  Output
+### 2.  Output
 ### csv file
